@@ -1,1 +1,1 @@
-My non-empty README.md file
+Software Engineering is fun. Road to becoming a Certified Web Developer.
