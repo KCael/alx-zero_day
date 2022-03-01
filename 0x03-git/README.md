@@ -1,1 +1,1 @@
-Non-empty readme file
+Coding is fun. Road to being a Certified web Developer.
